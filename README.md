@@ -1,2 +1,2 @@
 # test-repo
-Demo gitrepo
+Demo Git-repo
